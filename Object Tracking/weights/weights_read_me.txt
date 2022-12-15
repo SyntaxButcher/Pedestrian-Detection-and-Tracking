@@ -1,0 +1,1 @@
+the weights are too big to upload on github, you can download the pre-trained MS COCO weights from : https://pjreddie.com/media/files/yolov3.weights
